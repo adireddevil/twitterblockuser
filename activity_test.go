@@ -55,7 +55,7 @@ func TestGDriveCreateFile_InvalidUser(t *testing.T) {
 	tc.SetInput("consumerSecret", "0OelZ71gGz3CA9vuA5HJwX2tO27XHZkUIZV5scZbM0lK1btjqr")
 	tc.SetInput("accessToken", "990616654353645569-M5rp4NsPuWavBKcT25BOZG4c5sTwf7a")
 	tc.SetInput("accessTokenSecret", "VfmVsLP3ZVp7kQyUU9bC1Vf4FABNT8sQ2MmQYWAHljKZ8")
-	tc.SetInput("twitterHandle", "My First Tweet with GO")
+	tc.SetInput("twitterHandle", "rahulnairdgr8")
 
 	act.Eval(tc)
 

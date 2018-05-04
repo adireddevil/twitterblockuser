@@ -1,5 +1,5 @@
 {
-  "name": "Twitter Unfollow Handle",
+  "name": "Twitter Block User ",
   "version": "0.0.1",
   "type": "flogo:activity",
   "ref": "github.com/adireddevil/twitterblockuser",

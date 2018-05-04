@@ -1,4 +1,4 @@
-package blockuser
+package twitterblockuser
 
 import (
 	s "strings"
